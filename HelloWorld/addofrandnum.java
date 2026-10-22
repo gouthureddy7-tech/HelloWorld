@@ -11,11 +11,6 @@ public class addofrandnum {
 
         System.out.println("The sum of " + num1 + " and " + num2 + " is: " + sum);
 
-        int num3 = r.nextInt(1000);
-        int num4 = r.nextInt(999);
-        int num5 = r.nextInt(1000);
-        int sum2 = num3 + num4 + num5;
-
-        System.out.println("The sum of " + num3 + ", " + num4 + " and " + num5 + " is: " + sum2);
+        
     }
 }
